@@ -1,3 +1,3 @@
-# walletconnect-v1-prototype
+# eth-pos-system
 
-Prototype of WalletConnect v1.0 Protocol
+Ethereum Point of Sale System
